@@ -14,8 +14,11 @@ Currently, this repo contains a [Mamba](https://github.com/state-spaces/mamba)-b
 
 - [Tarin Clanuwat's work](https://tkasasagi.github.io/)
 
-- [Vesuvius Challenge](https://scrollprize.org/)
-
 - [Survey on Deep Learning-based Kuzushiji Recognition](https://arxiv.org/abs/2007.09637)
 
 - [UPenn Japanese Digital Resources: Kuzushiji](https://guides.library.upenn.edu/japanesedigitalresources/kuzushiji)
+
+**MoE**
+- [Residual Mixture of Experts](https://arxiv.org/pdf/2204.09636.pdf)
+
+- [Deep Mixture of Experts via Shallow Embedding](http://proceedings.mlr.press/v115/wang20d/wang20d.pdf)
