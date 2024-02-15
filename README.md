@@ -4,6 +4,7 @@ Currently, this repo contains a [Mamba](https://github.com/state-spaces/mamba)-b
 
 ## Ideas
 **Improvement in Generalization on Kanji Characters**
+- [The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence](https://arxiv.org/abs/2208.01545)
 - [Introduction to Model-Agnostic Meta-Learning](https://interactive-maml.github.io/)
 - [Few-Shot Learning & Meta-Learning](https://www.borealisai.com/research-blogs/tutorial-2-few-shot-learning-and-meta-learning-i/)
 
