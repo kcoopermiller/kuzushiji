@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
+
+# TODO: Rudimentary implementation of Kuronet
 
 class KuroNet(nn.Module):
     def __init__(self, num_experts=4):
