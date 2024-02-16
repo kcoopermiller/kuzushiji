@@ -1,7 +1,6 @@
 # Kuzushiji Recognition
 
-Currently, this repo contains a [Mamba](https://github.com/state-spaces/mamba)-based model trained on the [Kuzushiji-MNIST](https://github.com/rois-codh/kmnist) dataset (not really relevant, I just wanted to play around with the KMNIST dataset and the Mamba model)
-TODOs: Add MAML and Autoencoder
+Currently, this repo contains an Autoencoder and [Mamba](https://github.com/state-spaces/mamba)-based model trained on the [Kuzushiji-MNIST](https://github.com/rois-codh/kmnist) dataset (not really relevant, I just wanted to play around with the KMNIST dataset and the Mamba model). I am also in the process of integrating the [learn2learn](https://github.com/learnables/learn2learn/) library's Model-Agnostic Meta-Learning (MAML) algorithm with the provided Mamba model
 
 ## Ideas
 **Improvement in Generalization on Kanji Characters**
