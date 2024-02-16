@@ -19,6 +19,7 @@ Currently, this repo contains an Autoencoder and [Mamba](https://github.com/stat
 - [Deep Learning for Classical Japanese Literature](https://arxiv.org/abs/1812.01718) 
 - [Survey on Deep Learning-based Kuzushiji Recognition](https://arxiv.org/abs/2007.09637)
 - [UPenn Japanese Digital Resources: Kuzushiji](https://guides.library.upenn.edu/japanesedigitalresources/kuzushiji)
+- [Kuzushiji: Learning Resources & Artificial Intelligence Initiatives with Dr. Tarin Clanuwat](https://youtu.be/9hyItsOrseQ?si=gv_02JXRiSv6wP5K) 
 
 
 
