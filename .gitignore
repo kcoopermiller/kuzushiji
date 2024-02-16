@@ -2,6 +2,7 @@
 
 # Dataset dependencies
 kmnist/
+dataset/full.zip
 
 # Pytorch Lightning
 lightning_logs/
